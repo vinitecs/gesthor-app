@@ -1,0 +1,8 @@
+{
+  "name": "gesthorApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d982a01e"
+}
